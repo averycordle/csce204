@@ -1,0 +1,3 @@
+I am on line 1
+I love being in a file
+Yay yay ya!
