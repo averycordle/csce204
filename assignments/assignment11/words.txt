@@ -1,0 +1,9 @@
+alaska: juneau
+california: sacramento
+colorado: denver
+florida: tallahassee
+georgia: atlanta
+hawaii: honolulu
+massachusetts: boston
+south carolina: columbia
+virginia: richmond
