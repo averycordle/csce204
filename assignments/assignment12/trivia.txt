@@ -1,6 +1,0 @@
-Elephants can jump : false
-Dolphins sleep with half of their brain awake : true
-Starfish have a brain at the center of their body : false
-A blue whale tounge is as heavy as an elephant : true
-Koalas are bears : false
-Flamingoes are pink because of what they eat : true
