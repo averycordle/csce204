@@ -1,0 +1,6 @@
+red
+violet
+yellow
+purple
+sea green
+skyblue
