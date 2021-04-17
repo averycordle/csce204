@@ -1,0 +1,4 @@
+What type of animal is a seahorse?, Crustacean, Arachnid, Fish, Shell, 2
+Which of the following dog breeds is the smallest?, Dachshund, Poodle, pomeranian, Chicuahua, 3
+What color are zebras?, White with black stripes?, Black with white stripes, Both of the above, None of the above, 1
+What existing bird has the largest wingspan?, Stork, Swan, Condor, Albatross, 3

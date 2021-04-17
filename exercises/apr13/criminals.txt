@@ -1,0 +1,11 @@
+Jenny, Jones, female, robbery, true, Robbed a jewerly store at gun point. She was disappointed by her engagement ring
+Henry, Maddison, male, murder, true, Murdered a person who cut him off while driving
+Samuel, Dark, male, robbery, false, Robbed a 7-11 because he really wanted a slushy
+Ryan, Anderson, male, assult, false, Hurt someone for calling him names
+Amy, Marks, female, assult, true, Hurt someone who was rude to her dog
+Wendy, White, female, robbery, false, Stole sugar from her neighbor
+Tim, Traverstine, male, robbery, false, Stole from a local commedy theater, he was really broke
+Sara, Smith, female, murder, false, Murdered her husband because he forgot their anniversary
+Levi, Jenkins, male, assult, true, Hurt someone bad because they hurt his feelings
+John, James, male, assult, false, hurt his best friends feelings
+Aaron, Zermand, male, robbery, false, Stole from a bank - just a little bit
