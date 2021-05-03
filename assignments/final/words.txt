@@ -1,0 +1,7 @@
+penguin
+elephant
+hummingbird
+kangaroo
+lizard
+alligator
+dolphin
